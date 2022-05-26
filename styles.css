@@ -22,9 +22,6 @@ h1 {
 h1 span {
   border: 8px solid #666666;
   border-radius: 8px;
-  /*
-  background-image: url("https://media.giphy.com/media/KVZWZQoS0yqfIiTAKq/giphy.gif");
-  */
   color: black;
   padding: 12px;
 }
@@ -41,6 +38,7 @@ p {
 }
 
 .section {
+  margin-top: 15px;
   background-color: #fff;
   padding: 20px;
   margin-bottom: 10px;
@@ -48,7 +46,7 @@ p {
 }
 
 #header {
-  background-image: url("https://media.giphy.com/media/26ufmyrjQ4BmKN7xe/giphy.gif");
+  background-image: url("https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif");
   background-size: cover;
 }
 
@@ -61,7 +59,7 @@ p {
 
 #header p {
   font-size: 60pt;
-  color: black;
+  color: #ffffff;
   padding-top: 8px;
   margin: 0;
   font-weight: bold;
@@ -187,7 +185,8 @@ form {
 
 .copyright {
   font-size: 8pt;
-  text-align: right;
+  text-align: center;
+  padding-left: 630px;
   padding-bottom: 10px;
   color: grey;
 }
