@@ -48,7 +48,7 @@ p {
 }
 
 #header {
-  background-image: url("https://media.giphy.com/media/K0BdoHFYz2tU7kynzV/giphy.gif");
+  background-image: url("https://media.giphy.com/media/26ufmyrjQ4BmKN7xe/giphy.gif");
   background-size: cover;
 }
 
@@ -61,7 +61,7 @@ p {
 
 #header p {
   font-size: 60pt;
-  color: #ffffff;
+  color: black;
   padding-top: 8px;
   margin: 0;
   font-weight: bold;
