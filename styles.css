@@ -1,43 +1,7 @@
-body {
-  font-family: 'Bellota', cursive;
-  font-size: 26pt;
-  background-color: black;
-  padding: 20px;
-  margin: 0;
-}
-
-h1 {
-  font-size: 15pt;
-  color: #ffffff;
-  text-align: center;
-  padding: 18px 0 18px 0;
-  margin: 0 0 10px 0;
-}
-
-h1 span {
-  border: 8px solid gray;
-  border-radius: 100px;
-  color: black;
-  padding: 12px;
-}
-
-p {
-  padding: 0;
-  margin: 0;
-  color: #000000;
-}
-
-.section {
-  margin-top: 15px;
-  background-color: #fff;
-  padding: 20px;
-  margin-bottom: 10px;
-  border-radius: 30px;
-}
+/* CSS 1 Starts */
 
 #header {
   background-image: url("https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif");
-  background-size: cover;
 }
 
 #header p {
@@ -47,6 +11,40 @@ p {
   margin: 0;
   font-weight: bold;
   text-align: center;
+}
+
+body {
+  font-family: 'Bellota', cursive;
+  font-size: 26pt;
+  background-color: black;
+  padding: 20px;
+  margin: 0;
+}
+
+h1 span {
+  border: 8px solid gray;
+  border-radius: 100px;
+  color: black;
+  padding: 15px;
+}
+
+h1 {
+  font-size: 15pt;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  margin: 0 0 10px 0;
+}
+
+/* CSS 1 Ends */
+
+/* CSS 2 Starts */
+.section {
+  margin-top: 15px;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 30px;
 }
 
 #res {
