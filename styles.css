@@ -15,8 +15,8 @@ h1 {
 }
 
 h1 span {
-  border: 8px solid #666666;
-  border-radius: 8px;
+  border: 8px solid gray;
+  border-radius: 100px;
   color: black;
   padding: 12px;
 }
