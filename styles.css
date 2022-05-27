@@ -1,12 +1,7 @@
-html {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: 'Bellota', cursive;
   font-size: 26pt;
-  background-color: #f2f2f2;
+  background-color: black;
   padding: 20px;
   margin: 0;
 }
@@ -32,11 +27,6 @@ p {
   color: #000000;
 }
 
-.img-circle {
-  border: 8px solid white;
-  border-radius: 50%;
-}
-
 .section {
   margin-top: 15px;
   background-color: #fff;
@@ -50,13 +40,6 @@ p {
   background-size: cover;
 }
 
-#header img {
-  display: block;
-  width: 500px;
-  height: 500px;
-  margin: auto;
-}
-
 #header p {
   font-size: 60pt;
   color: #ffffff;
@@ -64,13 +47,6 @@ p {
   margin: 0;
   font-weight: bold;
   text-align: center;
-}
-
-.quote {
-  font-size: 12pt;
-  text-align: right;
-  margin-top: 10px;
-  color: grey;
 }
 
 #res {
@@ -83,12 +59,6 @@ p {
   display: inline-block;
   text-decoration: none;
   color: black;
-}
-
-.selected {
-  background-color: #f36f48;
-  font-weight: bold;
-  color: white;
 }
 
 li {
@@ -116,52 +86,10 @@ progress::-moz-progress-bar {
   background: #efefef;
 }
 
-iframe,
-audio {
-  display: block;
-  margin: 0 auto;
-  border: 3px solid #3fb6b2;
-  border-radius: 10px;
-}
-
 hr {
   border: 0;
   height: 1px;
   background: #f36f48;
-}
-
-input {
-  text-align: center;
-  font-size: 25pt;
-  border: none;
-  border-radius: 12px;
-  padding: 30px 8%;
-  margin: 20px 5px 10px 5px;
-  background-color: #d7d7d7;
-}
-
-input:focus {
-  background-color: #2f2f2f;
-  color: white;
-}
-
-form {
-  text-align: center;
-  font-size: 30pt;
-  font-family: Helvetica;
-  font-weight: 500;
-  margin: 10% 15% 8% 15%;
-  border-radius: 12px;
-}
-
-#insta-image {
-  display: block;
-  width: 100px;
-  height: 100px;
-  border: 5px solid #d7d7d7;
-  border-radius: 50%;
-  margin: auto;
-  margin-top: -75px;
 }
 
 #contacts img {
@@ -182,11 +110,4 @@ form {
 #contacts {
   text-align: center;
 }
-
-.copyright {
-  font-size: 8pt;
-  text-align: center;
-  padding-left: 630px;
-  padding-bottom: 10px;
-  color: grey;
 }
