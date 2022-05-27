@@ -84,10 +84,8 @@ progress::-moz-progress-bar {
   background: #efefef;
 }
 
-hr {
-  border: 0;
-  height: 1px;
-  background: #f36f48;
+#contacts {
+  text-align: center;
 }
 
 #contacts img {
@@ -99,13 +97,4 @@ hr {
 
 #contacts a {
   text-decoration: none;
-}
-
-#contacts img:hover {
-  opacity: 0.8;
-}
-
-#contacts {
-  text-align: center;
-}
 }
